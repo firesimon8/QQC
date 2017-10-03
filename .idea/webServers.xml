@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d6aa32d6-5166-4259-8039-5fde9a38c3b1" name="QQC" url="http://10.6.7.190">
+        <fileTransfer host="10.6.7.190" port="22" privateKey="D:\技术文档\id_rsa_carson" rootFolder="/home/carson" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
